@@ -1,6 +1,8 @@
 
 <div align="center">
-
+### 🖐️ 만나서 반갑습니다! 🖐️
+### 학습을 좋아하는 개발자 Be-HinD입니다! 😁😁
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 [![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be-HinD&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
