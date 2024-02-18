@@ -1,8 +1,6 @@
 <h1 align="center"> 🖐️ Welcome to Be-HinD Repository 🖐️ </h1>
 <br>
 <br>
-<br>
-<br>
 <div align="center">
   <h1> 📃 Introduce </h1>
 <br> 안녕하세요! JAVA 백엔드를 주력으로 다루고 있고, 풀스택 경험을 위해 React또한 학습 중에 있습니다!
