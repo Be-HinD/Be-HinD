@@ -4,8 +4,6 @@
 <br> 안녕하세요! JAVA 백엔드를 주력으로 다루고 있고, 풀스택 경험을 위해 React또한 학습 중에 있습니다!
 <br> 현재는 SSAFY 10기 이수하며 많은 걸 배워가고 있는 신입 개발자입니다😁😁
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
 [![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be-HinD&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 ---
 ### Solve
