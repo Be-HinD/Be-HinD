@@ -1,7 +1,8 @@
 <h1> 🖐️ Welcome to My Repo 🖐️ </h1>
 <div align="center">
   <h1> 📃 Introduce </h1>
-<h3> 학습을 좋아하는 개발자 Be-HinD입니다 😁😁 </h3>
+<br> 안녕하세요! JAVA 백엔드를 주력으로 다루고 있고, 풀스택 경험을 위해 React또한 학습 중에 있습니다!
+<br> 현재는 SSAFY 10기 이수하며 많은 걸 배워가고 있는 신입 개발자입니다😁😁
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
