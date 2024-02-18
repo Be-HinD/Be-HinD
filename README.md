@@ -8,6 +8,7 @@
 <br>
 <br>
 ### Solve
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beemo99)](https://solved.ac/beemo99/)
 ---
   
