@@ -1,7 +1,7 @@
 
 <div align="center">
-### 🖐️ 만나서 반갑습니다! 🖐️
-### 학습을 좋아하는 개발자 Be-HinD입니다! 😁😁
+<h1> 🖐️ 만나서 반갑습니다! 🖐️ </h1>
+<h1> 학습을 좋아하는 개발자 Be-HinD입니다! 😁😁 </h1>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
