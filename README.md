@@ -7,9 +7,6 @@
 <br> 현재는 SSAFY 10기 이수하며 많은 걸 배워가고 있는 신입 개발자입니다😁😁
 <br>
 <br>
-  
-[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be-HinD&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
----
 ### Solve
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beemo99)](https://solved.ac/beemo99/)
 ---
