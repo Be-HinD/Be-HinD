@@ -1,4 +1,4 @@
-<h1 align="center"> 🖐️ Welcome to Be-HinD Repository 🖐️ </h1>
+<div align="center"> 🖐️ Welcome to Be-HinD Repository 🖐️ </div>
 <br>
 <br>
 <div align="center">
