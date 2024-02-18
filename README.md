@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🖐️ Welcome to Be-HinD Repository 🖐️ <br> <br> 📃 Introduce </h1>
+  <h1> 🖐️ Welcome to Be-HinD Repository 🖐️ <br> <br> <br> 📃 Introduce </h1>
 <br> 안녕하세요! JAVA 백엔드를 주력으로 다루고 있고, 풀스택 경험을 위해 React또한 학습 중에 있습니다!
 <br> 현재는 SSAFY 10기 이수하며 많은 걸 배워가고 있는 신입 개발자입니다😁😁
 <br>
