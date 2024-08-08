@@ -1,5 +1,3 @@
-<div style="text-align: center;">
- 
 <h3 dir="auto">🔎About Me :</h3>
 I am currently studying to build a strong background in <code>Spring Security</code>, <code>Test-Driven Development</code>, and <code>Object-Oriented Programming</code>, aiming to become a backend engineer after completing the <code>Samsung Software Academy For Youth</code> program.
 
@@ -91,6 +89,8 @@ I am currently studying to build a strong background in <code>Spring Security</c
 
 <br>
 <br>
+
+<div align="center">
 
 ### Algorithm Solve💫
   
