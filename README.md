@@ -1,10 +1,95 @@
-<div align="center">
-  <h1> 🖐️ Welcome to Be-HinD Repository 🖐️ <br> <br> <br> 📃 Introduce </h1>
-<br> 안녕하세요! JAVA 백엔드를 주력으로 다루고 있고, 풀스택 경험을 위해 React또한 학습 중에 있습니다!
-<br> 현재는 SSAFY 10기 수료 후 개별 공부를 통해 더 깊이 있는 엔지니어가 되기 위해 노력하고 있습니다.😁😁
+<h3 dir="auto">🔎About Me :</h3>
+I am currently studying to build a strong background in <code>Spring Security</code>, <code>Test-Driven Development</code>, and <code>Object-Oriented Programming</code>, aiming to become a backend engineer after completing the <code>Samsung Software Academy For Youth</code> program.
+
 <br>
 <br>
+
+<h3 dir="auto">🛠️Tech Stack :</h3>
+ <table border="1px solid black">
+    <tr>
+      <td style="padding: 50px;"><b> BackEnd </td>
+      <td>
+      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+        <td style="padding: 50px;"> <b> DevOps </td>
+        <td>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+        </td> 
+    </tr>
+    <tr>
+        <td style="padding: 30px;"> <b> Collaboration </td>
+        <td>
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=white">
+        </td>
+    </tr>
+  </table>
+
+<br>
+<br>
+
+<h3 dir="auto">🔥Projects :</h3>
+<table border="1px solid black">
+    <tr>
+        <td> <b> Title
+        <td> <b> Description
+        <td> <b> Member
+        <td> <b> Role
+        <td> <b> Period
+        <td> <b> State
+    </tr>
+    <tr>
+        <td> 
+        
 [Whoru](https://github.com/team-smog/whoru)
+         </td>
+        <td> 익명 메세지 전송 플렛폼
+        <td> <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd 3</code>
+        <br>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px;">FrontEnd 3</code>
+        <td> 
+        <code style="color: #131415; background-color:#f77898; padding: 2px 4px; border-radius: 4px;">Leader</code>
+        <br>
+        <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
+        <td> 2024.04.08 ~ 2024.05.20 (7주)
+        <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
+    </tr>
+    <tr>
+        <td> [WITT](https://github.com/Be-HinD/WITT) </td>
+        <td> Open AI를 활용한 친환경 분리수거 기반 퀴즈를 통한 캐릭터 성장 서비스
+        <td> <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd 3</code>
+        <br>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px;">FrontEnd 3</code>
+        <td> <code style="color: #131415; background-color:#f77898; padding: 2px 4px; border-radius: 4px;">Leader</code>
+        <br>
+        <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
+        <td> 2024.02.19 ~ 2024.04.05 (7주)
+        <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
+    </tr>
+    <tr>
+        <td> [CodeArena](https://github.com/codearena-team/CodeArena) </td>
+        <td> 온라인 져지 및 실시간 랜덤 매칭 알고리즘 경쟁 커뮤니티
+        <td> <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd 3</code>
+        <br>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px;">FrontEnd 3</code>
+        <td> <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
+        <td> 2024.01.03 ~ 2024.02.16 (7주)
+        <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
+    </tr>
+</table>
+
+<br>
+<br>
+
 ### Algorithm Solve💫
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beemo99)](https://solved.ac/beemo99/)
