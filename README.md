@@ -1,5 +1,9 @@
 <h3 dir="auto">🔎About Me :</h3>
 I am currently studying to build a strong background in <code>Spring Security</code>, <code>Test-Driven Development</code>, and <code>Object-Oriented Programming</code>, aiming to become a backend engineer after completing the <code>Samsung Software Academy For Youth</code> program.
+<br>
+<br>
+
+👨‍💼hit of page : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBe-HinD&count_bg=%23888888&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 <br>
@@ -95,8 +99,6 @@ I am currently studying to build a strong background in <code>Spring Security</c
 ### Algorithm Solve💫
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beemo99)](https://solved.ac/beemo99/)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBe-HinD&count_bg=%23888888&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
  
 <br>
