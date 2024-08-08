@@ -94,30 +94,8 @@ I am currently studying to build a strong background in <code>Spring Security</c
 <br>
 <br>
 
-<div align="center">
-
-### Algorithm Solve💫
+### 💫Algorithm Solve :
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beemo99)](https://solved.ac/beemo99/)
 
- 
-<br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://infinitecode.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-    </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=infinitecode&theme=default)](https://infinitecode.tistory.com)
-</div><br>
-
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:kr100475@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-  
-</div>
