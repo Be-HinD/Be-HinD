@@ -40,6 +40,13 @@ I am currently studying to build a strong background in <code>Spring Security</c
 
 <br>
 <br>
+<h3 dir="auto">🏆 Awards and Certifications :</h3>
+<li> 2024.08. Opic Intermediate Mid 2
+<li> 2024.09. SQLD
+<li> 2024.09. 사이버 시큐리티 해커톤 울산정보산업진흥원상상 수상 "Catch Scam"
+
+<br>
+<br>
 
 <h3 dir="auto">🔥Projects :</h3>
 <table border="1px solid black">
@@ -52,10 +59,22 @@ I am currently studying to build a strong background in <code>Spring Security</c
         <td> <b> State
     </tr>
     <tr>
-        <td> 
-        
-[Whoru](https://github.com/team-smog/whoru)
-         </td>
+        <td>  <a href="https://github.com/Cyber-Security-HACKATHON">Catch Scam</a> </td>
+        <td> 실시간 로맨스 스캠 탐지 서비스
+        <td style="white-space: nowrap;">
+        <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px; display: inline-block;">BackEnd 1</code>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px; display: inline-block;">FrontEnd 2</code>
+         <br>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px;">AI 1</code>
+        <td>         
+        <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
+        <br>
+        <code style="color: #131415; background-color:#f77898; padding: 2px 4px; border-radius: 4px;">PT</code>
+        <td> 2024.09.10 ~ 2024.09.12 (무박 3일)
+        <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
+    </tr>
+    <tr>
+        <td> <a href="https://github.com/team-smog/whoru">Whoru</a> </td>
         <td> 익명 메세지 전송 플렛폼
         <td> <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd 3</code>
         <br>
@@ -68,7 +87,7 @@ I am currently studying to build a strong background in <code>Spring Security</c
         <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
     </tr>
     <tr>
-        <td> [WITT](https://github.com/Be-HinD/WITT) </td>
+        <td> <a href="https://github.com/Be-HinD/WITT">WITT</a> </td>
         <td> Open AI를 활용한 친환경 분리수거 기반 퀴즈를 통한 캐릭터 성장 서비스
         <td> <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd 3</code>
         <br>
@@ -80,7 +99,7 @@ I am currently studying to build a strong background in <code>Spring Security</c
         <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
     </tr>
     <tr>
-        <td> [CodeArena](https://github.com/codearena-team/CodeArena) </td>
+        <td> <a href="https://github.com/codearena-team/CodeArena">CodeArena</a> </td>
         <td> 온라인 져지 및 실시간 랜덤 매칭 알고리즘 경쟁 커뮤니티
         <td> <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd 3</code>
         <br>
@@ -95,7 +114,5 @@ I am currently studying to build a strong background in <code>Spring Security</c
 <br>
 
 ### 💫Algorithm Solve :
-  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beemo99)](https://solved.ac/beemo99/)
-
-
