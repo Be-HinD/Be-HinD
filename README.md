@@ -69,7 +69,7 @@ I am currently studying to build a strong background in <code>Spring Security</c
         <td>         
         <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
         <br>
-        <code style="color: #131415; background-color:#f77898; padding: 2px 4px; border-radius: 4px;">PT</code>
+        <code style="color: #131415; background-color:#f77898; padding: 2px 4px; border-radius: 4px;">기획,PT</code>
         <td> 2024.09.10 ~ 2024.09.12 (무박 3일)
         <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
     </tr>
