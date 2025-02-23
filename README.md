@@ -59,6 +59,22 @@ I am currently studying to build a strong background in <code>Spring Security</c
         <td> <b> State
     </tr>
     <tr>
+        <td>  <a href="https://github.com/orgs/hackerton-team-10/repositories">Heartz</a> </td>
+        <td> 블레이버스 MVP 해커톤
+        <td style="white-space: nowrap;">
+        <code style="color: #131415; background-color: #bc94d6; padding: 2px 4px; border-radius: 4px; display: inline-block;">PM 1</code>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px; display: inline-block;">UI/UX 2</code>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px; display: inline-block;">FrontEnd 3</code>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px; display: inline-block;">BackEnd 3</code>
+         <br>
+        <td>         
+        <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
+        <br>
+        <code style="color: #131415; background-color:#f77898; padding: 2px 4px; border-radius: 4px;">팀장,PT</code>
+        <td> 2025.02.10 ~ 2024.02.20 (10일)
+        <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
+    </tr>
+    <tr>
         <td>  <a href="https://github.com/Cyber-Security-HACKATHON">Catch Scam</a> </td>
         <td> 실시간 로맨스 스캠 탐지 서비스
         <td style="white-space: nowrap;">
