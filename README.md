@@ -71,7 +71,7 @@ I am currently studying to build a strong background in <code>Spring Security</c
         <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
         <br>
         <code style="color: #131415; background-color:#f77898; padding: 2px 4px; border-radius: 4px;">팀장,PT</code>
-        <td> 2025.02.10 ~ 2024.02.20 (10일)
+        <td> 2025.02.10 ~ 2025.02.20 (10일)
         <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
     </tr>
     <tr>
