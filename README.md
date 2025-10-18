@@ -3,8 +3,6 @@ I am currently studying to build a strong background in <code>Spring Security</c
 <br>
 <br>
 
-👨‍💼hit of page : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBe-HinD&count_bg=%23888888&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br>
 <br>
 
