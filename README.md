@@ -42,6 +42,7 @@ Every line of code I write is a step toward becoming a better developer than yes
 <br>
 <br>
 <h3 dir="auto">🏆 Awards and Certifications :</h3>
+<li> 2025.12. 정보처리기사
 <li> 2024.09. 사이버 시큐리티 해커톤 울산정보산업진흥원상 수상 "Catch Scam"
 <li> 2024.09. SQLD
 <li> 2024.07. Opic Intermediate Mid 2
@@ -58,6 +59,20 @@ Every line of code I write is a step toward becoming a better developer than yes
         <td> <b> Role
         <td> <b> Period
         <td> <b> State
+    </tr>
+    <tr>
+        <td>  <a href="https://github.com/WeGo-Together">WeGo </td>
+        <td> 모임 서비스 (코드잇 스프린트)
+        <td style="white-space: nowrap;">
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px; display: inline-block;">UI/UX 1</code>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px; display: inline-block;">FrontEnd 5</code>
+        <code style="color: #131415; background-color: #7897d3; padding: 2px 4px; border-radius: 4px; display: inline-block;">BackEnd 2</code>
+         <br>
+        <td>         
+        <code style="color: #131415; background-color:#bc94d6; padding: 2px 4px; border-radius: 4px;">BackEnd</code>
+        <br>
+        <td> 2025.11.13 ~ 2026.01.05 (6주)
+        <td> <code style="color: #ffffff; background-color:#fd212c; padding: 2px 4px; border-radius: 4px;">Complite</code>
     </tr>
     <tr>
         <td>  <a href="https://github.com/orgs/hackerton-team-10/repositories">Heartz</a> </td>
