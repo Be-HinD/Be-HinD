@@ -44,6 +44,7 @@ Every line of code I write is a step toward becoming a better developer than yes
 <br>
 <br>
 <h3 dir="auto">🏆 Awards and Certifications :</h3>
+<li> 2026.03. 데이터 분석 준전문가 (ADsP)
 <li> 2025.12. 정보처리기사
 <li> 2024.09. 사이버 시큐리티 해커톤 울산정보산업진흥원상 수상 "Catch Scam"
 <li> 2024.09. SQLD
